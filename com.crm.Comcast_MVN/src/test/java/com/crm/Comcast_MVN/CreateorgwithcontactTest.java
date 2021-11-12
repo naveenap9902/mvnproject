@@ -8,5 +8,6 @@ public class CreateorgwithcontactTest
 	public void createorgwithOrg()
 	{
 		System.out.println("org with contact");
+		System.out.println("push one");
 	}
 }
